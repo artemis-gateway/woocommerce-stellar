@@ -25,11 +25,19 @@ Want to get involved with the Artemis Payment Gateway plug-in development, join 
 
 #### Installation
 
+**Installation via WordPress plugin installer [Click Here](https://wordpress.org/plugins/artemis-payment-gateway)**
+
+1. Go to: Plugins > Add New.
+2. Type “artemis payment gateway” in to the search box and hit enter.
+3. Click the “Install” button.
+4. Activate as you would any other WordPress plugin.
+
+**Manually via SFTP**
 1. Upload the plugin's files to the `/wp-content/plugins/` directory
 2. Activate the plugin through the **Plugins** menu in WordPress
 3. Visit the **WooCommerce > Settings > Payment >
 4. Select **Enable ARTEMIS PAYMENT GATEWAY**.
-5. Select Manage**
+5. Select **Manage**
 6. Enter your Stellar Address
 
 You're ready to start selling via Stellar!
